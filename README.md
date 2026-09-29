@@ -7,7 +7,6 @@ Community research and secondary development built on DEEP Robotics products.
 | [syh486/goai_drl_submission](https://github.com/syh486/goai_drl_submission) | Lynx S10 | SRU navigation, dual-LiDAR perception, mapping, and locomotion training. |
 | [tangyipeng100/GOAI2026_kbrs](https://github.com/tangyipeng100/GOAI2026_kbrs) | Lynx S10 | Visual-language navigation, multi-view inference, and route evaluation. |
 | [bowenwan6/goai26-s10-racing](https://github.com/bowenwan6/goai26-s10-racing) | Lynx S10 | Terrain-aware navigation, gait selection, and simulation. |
-| [Jack15678/rl_training](https://github.com/Jack15678/rl_training) | Lite3, M20, DR02 | Community fork of the DEEP Robotics Isaac Lab training framework. |
 | [TransformBrino/goai2026-s10-patrol](https://github.com/TransformBrino/goai2026-s10-patrol) | Lynx S10 | Navigation tools, FAST-LIO2 perception, and experimental locomotion training. |
 | [luogantt/robot_dog](https://github.com/luogantt/robot_dog) | Lynx S10 | Web control, AprilTag following, and SLAM-based navigation. |
 
